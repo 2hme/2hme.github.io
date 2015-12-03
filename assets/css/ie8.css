@@ -1,0 +1,9 @@
+
+
+/* Basic */
+
+	body {
+		background-image: url("../../images/BG.jpeg");
+		background-size: cover;
+		-ms-behavior: url("assets/js/ie/backgroundsize.min.htc");
+	}
